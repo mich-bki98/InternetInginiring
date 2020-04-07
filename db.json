@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": 1,
+      "name": "Grzegorz Bawęda",
+      "username": "gbaweda"
+    },
+    {
+      "name": "Maksymilian Buk",
+      "username": "maksbuk",
+      "id": 2
+    },
+    {
+      "name": "Maksymilian Buk",
+      "username": "maksbuk",
+      "id": 3
+    },
+    {
+      "name": "Damian Bylina",
+      "username": "dambyl",
+      "id": 4
+    },
+    {
+      "name": "Joanna Cepuch",
+      "username": "cepcepcep",
+      "id": 5
+    },
+    {
+      "name": "Brzesiek Gawęda",
+      "username": "aaaa",
+      "id": 6
+    }
+  ]
+}
